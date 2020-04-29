@@ -1,2 +1,1 @@
-# vigilant-spork
-Tinder for dogs
+TinDog Starting Files
